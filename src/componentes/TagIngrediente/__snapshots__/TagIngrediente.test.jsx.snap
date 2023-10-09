@@ -1,0 +1,21 @@
+// Vitest Snapshot v1, https://vitest.dev/guide/snapshot.html
+
+exports[`Snapshot do botão ativo 1`] = `
+<DocumentFragment>
+  <button
+    class="sc-bczSft kUJMIt"
+  >
+    Teste Ativo
+  </button>
+</DocumentFragment>
+`;
+
+exports[`Snapshot do botão inativo 1`] = `
+<DocumentFragment>
+  <button
+    class="sc-bczSft eYMIVd"
+  >
+    Teste Inativo
+  </button>
+</DocumentFragment>
+`;
