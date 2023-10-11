@@ -59,7 +59,8 @@ test("Alternar Ingrediente - Adiciona e remove", () => {
     "Ingrediente Selecionado: Não"
   )
 })
-/*
+
+
 test("Verifica se o ingrediente está selecionado", () => {
   const TestComponent = () => {
     const { ingredienteEstaSelecionado } = useContext(IngredientesContext)
@@ -78,4 +79,4 @@ test("Verifica se o ingrediente está selecionado", () => {
   const estaSelecionado = getByTestId("estaSelecionado")
 
   expect(estaSelecionado.textContent).toBe("false")
-})*/
+})
